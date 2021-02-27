@@ -5,7 +5,7 @@ Specifications were to create an obstacle course game with multiplayer/vs AI asp
 <br />
 
 ### Game Demo
-<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/ "><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/Thumbnail.PNG" alt = "Game Link" width = "250"></a>
+<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/ "><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/Thumbnail.png" alt = "Game Link" width = "250"></a>
 
 [(Link)](https://akeilee.github.io/Team-Project-Game-Prototype/)<br /><br />
 
