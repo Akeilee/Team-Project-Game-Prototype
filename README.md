@@ -5,23 +5,23 @@ Specifications were to create an obstacle course game with multiplayer/vs AI asp
 <br />
 
 ### Game Demo
-<a href = "https://akeilee.github.io/FantasyRhythm/"><img src="https://github.com/Akeilee/FantasyRhythm/blob/master/Screenshots/menu.PNG" alt = "Game Link" width = "250"></a>
+<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/ "><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/Thumbnail.PNG" alt = "Game Link" width = "250"></a>
 
-[(Link)](https://akeilee.github.io/FantasyRhythm/)<br /><br />
+[(Link)](https://akeilee.github.io/Team-Project-Game-Prototype/)<br /><br />
 
 
 ### Demo Video
-- [Link](https://youtu.be/1s2tpDjuAH4)
+- [Link](https://youtu.be/OEXpDLsSErM )
 <br /><br />
 
 
 ### Screenshots
 
 **Split Screen Multiplayer:**<br /><br />
-<a name = "instruction"><img src="https://github.com/Akeilee/FantasyRhythm/blob/master/Screenshots/instructions.PNG" width = "400"></a> <br /><br />
+<a name = "multiplayer"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/splitScreen.png" width = "400"></a> <br /><br />
 
 **Frictionless Slope:**<br /><br />
-<a name = "cheat"><img src="https://github.com/Akeilee/FantasyRhythm/blob/master/Screenshots/CheatMenu.PNG" width = "400"></a> <br /><br />
+<a name = "slope"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/frictionlessSlope.png" width = "400"></a> <br /><br />
 
 ### Keybinds
 | | |
@@ -37,4 +37,4 @@ Specifications were to create an obstacle course game with multiplayer/vs AI asp
 
 
 ### References
-[Reference List](https://github.com/Akeilee/FantasyRhythm/blob/master/Screenshots/ReferenceList2.txt)
+[Reference List](https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/ReferenceList.txt)
