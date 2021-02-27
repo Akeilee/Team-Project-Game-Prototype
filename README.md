@@ -1,8 +1,9 @@
 ## Team Project - Fast Game Prototype - 2020/2021
 <br />
-A fast prototype of a game created for the Team Project module at Newcastle University. Written in Unity and C#.
-Specifications were to create an obstacle course game with multiplayer/vs AI aspects.
+A fast prototype of a game created for the Team Project module at Newcastle University. Written in Unity and C#.<br />
+Game design specifications were to create an obstacle course game with multiplayer/vs AI aspects.
 <br />
+
 
 ### Game Demo
 <a href = "https://akeilee.github.io/Team-Project-Game-Prototype/ "><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/Thumbnail.png" alt = "Game Link" width = "250"></a>
