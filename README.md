@@ -17,7 +17,9 @@ Game design specifications were to create an obstacle course game with multiplay
 
 
 ### Screenshots
-<a name = "multiplayer"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/stateObjects.png" width = "400"></a> <br /><br />
+<a name = "menu"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/Thumbnail.png" width = "400"></a> <br /><br />
+
+<a name = "stateobjects"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/stateObjects.png" width = "400"></a> <br /><br />
 
 **Split Screen Multiplayer:**<br /><br />
 <a name = "multiplayer"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/splitScreen.png" width = "400"></a> <br /><br />
