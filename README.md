@@ -6,13 +6,13 @@ Game design specifications were to create an obstacle course game with multiplay
 
 
 ### Game Demo
-<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/ "><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/gifgameplay.gif" alt = "Game Link" width = "250"></a>
+<a href = "https://akeilee.github.io/Team-Project-Game-Prototype/"><img src="https://github.com/Akeilee/Team-Project-Game-Prototype/blob/main/Screenshot/gifgameplay.gif" alt = "Game Link" width = "250"></a>
 
 [(Link)](https://akeilee.github.io/Team-Project-Game-Prototype/)<br /><br />
 
 
 ### Demo Video
-- [Link](https://youtu.be/OEXpDLsSErM )
+- [Link](https://youtu.be/OEXpDLsSErM)
 <br /><br />
 
 
